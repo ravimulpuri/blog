@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I will write articles that broadly fall in the following categories . Tensorflow and Pytorch implementation of several networks, architecture etc. | Computer vision articles based on concepts learned from Deep Learning for computer vision with python series from Dr. Adrian Rosebrock and fastai courses | Natural Language Processing(NLP) articles based on concepts learned from NLP courses available online | Book Reviews - I set an ambitious goal to read 24 books in 2020. I completed 9 books so far. I will pen down my notes and highlights from each book | Trip photos - I travel regularly to national parks throughout US. I will post trip experiences through text and photos | And articles that may not fall in to the categories mentioned above .",
           "url": "https://ravimulpuri.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
