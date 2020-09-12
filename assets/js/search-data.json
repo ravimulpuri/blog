@@ -4,7 +4,7 @@
         "post0": {
             "title": "Glacier national park",
             "content": "I recently visited glacier national park for 10 days as I had some time on hand. I drove all the way from Austin to Kalispell, with stops at Denver, CO (to pick up couple of friends) and Billing, MT . I enjoyed the trip . Some of my favorite photos that I clicked, using iPhone 11 plus, are .",
-            "url": "https://ravimulpuri.github.io/blog/roadtrip/national-park/2020/09/11/glacier-national-park.html",
+            "url": "https://www.ravimulpuri.com/roadtrip/national-park/2020/09/11/glacier-national-park.html",
             "relUrl": "/roadtrip/national-park/2020/09/11/glacier-national-park.html",
             "date": " • Sep 11, 2020"
         }
@@ -19,7 +19,7 @@
       ,"page1": {
           "title": "About me",
           "content": "I am a Data Scientist with 4 years of experience in time series data, computer vision and natural language processing applications . Please feel free to reach out to me via twitter .",
-          "url": "https://ravimulpuri.github.io/blog/about/",
+          "url": "https://www.ravimulpuri.com/about/",
           "relUrl": "/about/",
           "date": ""
       }
@@ -51,7 +51,7 @@
       ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://ravimulpuri.github.io/blog/robots.txt",
+          "url": "https://www.ravimulpuri.com/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
